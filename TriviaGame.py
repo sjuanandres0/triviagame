@@ -55,5 +55,3 @@ print('\nTotal incorrect: '+str(mistakes))
 print('Total played: '+str(count))
 print('Grade: '+ str(int((((count-mistakes)/count)*100)))+'%')
 print('Thanks for playing! Hope you enjoyed!')
-
-
